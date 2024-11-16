@@ -112,3 +112,4 @@ def main():
         st.write("No meals match your criteria.")
 
 if __name__ == "__main__":
+    main()
